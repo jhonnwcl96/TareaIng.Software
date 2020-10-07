@@ -10,4 +10,11 @@ ingeniería de software es un marco de
 trabajo usado para estructurar, planificar
  y controlar el proceso de desarrollo en 
  sistemas de información
-ss
+
+
+// agrtegando mas texto pero en mi rrama
+La metodología de desarrollo de software en 
+ingeniería de software es un marco de 
+trabajo usado para estructurar, planificar
+ y controlar el proceso de desarrollo en 
+ sistemas de información
