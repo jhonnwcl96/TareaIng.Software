@@ -4,17 +4,12 @@ trabajo usado para estructurar, planificar
  y controlar el proceso de desarrollo en 
  sistemas de información
 
-// agrtegando mas texto pero en mi rrama
-La metodología de desarrollo de software en 
-ingeniería de software es un marco de 
-trabajo usado para estructurar, planificar
- y controlar el proceso de desarrollo en 
- sistemas de información
+Una metodología de desarrollo de software se refiere a un framework (entorno o marco de trabajo) que es usado para estructurar, planear y controlar el proceso de desarrollo en sistemas de información.
 
+A lo largo del tiempo, una gran cantidad de métodos han sido desarrollados diferenciándose por su fortaleza y debilidad.
 
-// agrtegando mas texto pero en mi rrama
-La metodología de desarrollo de software en 
-ingeniería de software es un marco de 
-trabajo usado para estructurar, planificar
- y controlar el proceso de desarrollo en 
- sistemas de información
+El framework para metodología de desarrollo de software consiste en:
+
+Una filosofía de desarrollo de programas de computación con el enfoque del proceso de desarrollo de software
+Herramientas, modelos y métodos para asistir al proceso de desarrollo de software
+Estos frameworks son a menudo vinculados a algún tipo de organización, que además desarrolla, apoya el uso y promueve la metodología.
